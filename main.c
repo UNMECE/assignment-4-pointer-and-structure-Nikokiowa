@@ -67,11 +67,11 @@ int main(int argc, char *argv[]) {
   char response[10];
 
   // Add items.
-  add_item(items, 3.08, "123456", "Dairy", "2% Milk", 0);
-  add_item(items, 7.98, "123457", "Beverage", "12pk Coca-Cola", 1);
-  add_item(items, 3.50, "123458", "Snack Foods", "Lay's Barbecue Flavored Potato Chips", 2);
-  add_item(items, 32.63, "123459", "Meat", "Ribeye Beef Steak", 3);
-  add_item(items, 2.34, "1234510", "Poultry", "Large White Eggs, 12 Count", 4);
+  add_item(items, 3.08, "908036", "Dairy", "2% Milk", 0);
+  add_item(items, 7.98, "822613", "Beverage", "12pk Coca-Cola", 1);
+  add_item(items, 3.50, "611377", "Snack Foods", "Lay's Barbecue Flavored Potato Chips", 2);
+  add_item(items, 32.63, "225868", "Meat", "Ribeye Beef Steak", 3);
+  add_item(items, 2.34, "102690", "Poultry", "Large White Eggs, 12 Count", 4);
 
 
   // Search from command line argument.
